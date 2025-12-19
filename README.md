@@ -37,8 +37,8 @@ jupyter notebook notebook.ipynb
 2. Upload the notebook.ipynb file or connect to your GitHub repository
 3. Run the first cell to automatically set up the environment
 ## Data Description
-- Books_Details: Contains book id, cover_img, book_title, book_description, forrmat, publication_info, authorlink, author, num_pages, num_ratings, num_reviews, and rating_distribution.
-- Books_Data: Contains publishing year, book name, author, book_rating, book_average_rating, book_ratings_count, genre, publisher revenue, sale price, sales rank, publisher, and units sold.
+- [Books_Details](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings?resource=download): Contains book id, cover_img, book_title, book_description, forrmat, publication_info, authorlink, author, num_pages, num_ratings, num_reviews, and rating_distribution.
+- [Books_Data](https://www.kaggle.com/datasets/dk123891/books-dataset-goodreadsmay-2024): Contains publishing year, book name, author, book_rating, book_average_rating, book_ratings_count, genre, publisher revenue, sale price, sales rank, publisher, and units sold.
 ## Analysis Features
 - Loading the data
 - Augumenting the dataset and then merging them into one
