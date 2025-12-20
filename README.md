@@ -9,6 +9,7 @@ Math-120-Final-Project/
 ├── data_raw/                    
 │   ├── Book_Details.csv     # Raw book data
 │   └── Books_Data.csv       # Raw book data with sales
+├── Final Written Report.pdf  #Final Report
 ├── Math120_Final.ipynb      # Main analysis notebook
 └── README.md               # This file
 ```
